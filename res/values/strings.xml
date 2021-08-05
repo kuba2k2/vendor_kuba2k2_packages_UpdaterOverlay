@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="updater_server_url" translatable="false">https://android.oranz.ml/api/v1/rr_{device}.json</string>
+</resources>
